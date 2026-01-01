@@ -18,19 +18,12 @@ This is a simple implementation of the popular Snake game where the player contr
 ## Requirements
 
 - Java Runtime Environment (JRE) 8 or higher
-- Java Development Kit (JDK) for compilation
 
-## How to Run
+## Run
 
-1. **Compile the project**:
-   ```bash
-   javac -d bin src/game/*.java
-   ```
-
-2. **Run the game**:
-   ```bash
-   java -cp bin game.Game
-   ```
+```bash
+java -jar Gluttonous-Snake.jar
+```
 
 ## Game Controls
 

@@ -18,19 +18,12 @@
 ## 要求
 
 - Java运行环境（JRE）8或更高版本
-- Java开发工具包（JDK）用于编译
 
-## 如何运行
+## 运行
 
-1. **编译项目**：
-   ```bash
-   javac -d bin src/game/*.java
-   ```
-
-2. **运行游戏**：
-   ```bash
-   java -cp bin game.Game
-   ```
+```bash
+java -jar Gluttonous-Snake.jar
+```
 
 ## 游戏控制
 
