@@ -18,6 +18,7 @@ This is a simple implementation of the popular Snake game where the player contr
 ## Requirements
 
 - Java Runtime Environment (JRE) 8 or higher
+- The jar package is packaged with Java 25.
 
 ## Run
 
